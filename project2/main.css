@@ -1,0 +1,39 @@
+h1{
+
+    color: yellow;
+    background-color: black;
+    font-size: 16px;
+    text-align: center;
+    }
+
+    h3{
+
+        text-align: center;
+    }
+
+    /* p{
+        background-color: yellow;
+        color: green;
+    } */
+
+    .text{
+
+    color: purple;
+    background-color: orange;
+    }
+.text-centered{
+
+    text-align: center;
+}
+
+
+    /* #txt {
+        color: pink;
+        background: brown;
+    } */
+/* 
+    .paragraph{
+
+        color: red;
+        background-color:salmon ;
+    } */
