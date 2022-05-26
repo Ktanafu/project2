@@ -1,0 +1,64 @@
+/* h1{
+
+    color: yellow;
+    background-color: black;
+    font-size: 36px;
+    text-align: center;
+    }
+
+    h3{
+
+        text-align: center;
+    }
+a{
+
+background: yellow;
+color: green;
+/* display: block; */
+/* } */
+
+    /* p{
+        background-color: yellow;
+        color: green;
+        /* display: inline; */
+    /* } */ 
+
+  /* p{
+
+    background-color:green ;
+  } */
+p {
+font-family: Arial;
+
+}
+  .text-block{
+
+    background-color: green;
+    color: yellow;
+  }
+
+  .nav{
+
+    background-color: pink
+  }
+
+  .text{
+
+    color: blue;
+    font-family: Arial;
+
+  }
+
+
+  .important{
+
+    /* color: red;
+    font-size: 20px; */
+    /* background-color: purple; */
+    font-weight:bold ;
+  }
+
+
+
+  
+
